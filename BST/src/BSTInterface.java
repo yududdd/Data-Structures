@@ -1,5 +1,5 @@
 /**
- *  Comparing BST with Ordered Array and Linked List
+ * Comparing BST with Ordered Array and Linked List
  *
  * Simple Binary Search Tree interface
  * @author Yu Du
