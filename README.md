@@ -22,7 +22,8 @@ Max Heap
 ## LinkedList
 Singly LinkedList using recursion.
 
-## Queue (ArrayBased)
+## Queue
+A basic implementation of array based circular queue.
 
 ## Sorting Algorithms
 This includes simple sorting : Bubble Sort, Selection Sort, Insertion Sort.
