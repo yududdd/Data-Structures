@@ -1,6 +1,6 @@
 # Data Structure
 
-This repository records some commonly data structures and sorting algorithms written in Java.
+This repository records some commonly used data structures and sorting algorithms written in Java.
 
 If you find any bug in any one of the data sctructure, please let me know!
  :octocat: 
